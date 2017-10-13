@@ -36,5 +36,5 @@ For bug reports please provide the *STEPS TO REPRODUCE* and if possible a *MINIM
 <pre><code>
  xcov_report Version: X.Y.Z
 <!-- Check whether this is still an issue in the most recent version, and add relevant information like Operating system version, IDE, package manager, HTTP server, browser ... -->
-
 </code></pre>
+
